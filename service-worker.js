@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ffc-trx-cache-v1';
+const CACHE_NAME = 'shushilan-mlp-cache-v1';
 const urlsToCache = [
     '/',
     '/index.html',
