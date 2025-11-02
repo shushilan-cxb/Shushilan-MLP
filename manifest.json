@@ -1,7 +1,7 @@
 {
     "name": "Shushilan-MLP",
     "short_name": "Shushilan-MLP",
-    "start_url": "https://shushilan-cxb.github.io/Shushilan-MLP/index.html",
+    "start_url": "/Shushilan-MLP/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
